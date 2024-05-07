@@ -6,6 +6,7 @@ import Home from "./Home";
 import EditPost from "./EditPost";
 import PostPage from "./PostPage";
 import About from "./About";
+import NewPost from "./NewPost";
 
 function App() {
   return (
