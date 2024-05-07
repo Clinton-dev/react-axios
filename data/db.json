@@ -1,0 +1,64 @@
+{
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "body": "This is the content of the first blog post. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "date": "2023-04-15"
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "body": "Here is the second blog post. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "date": "2023-05-20"
+    },
+    {
+      "id": 3,
+      "title": "Third Blog Post",
+      "body": "In this post, we explore a new topic. Fusce commodo felis eget justo accumsan, id ultrices nisl ullamcorper.",
+      "date": "2023-06-02"
+    },
+    {
+      "id": 4,
+      "title": "Fourth Blog Post",
+      "body": "A deep dive into the world of programming. Nulla facilisi. Nullam efficitur nisl vitae lectus tristique eleifend.",
+      "date": "2023-07-08"
+    },
+    {
+      "id": 5,
+      "title": "Fifth Blog Post",
+      "body": "Discover the latest trends in technology. Mauris tempor turpis vel velit dictum lacinia.",
+      "date": "2023-08-14"
+    },
+    {
+      "id": 6,
+      "title": "Sixth Blog Post",
+      "body": "The importance of exercise for a healthy lifestyle. Suspendisse potenti. Proin at consequat turpis.",
+      "date": "2023-09-21"
+    },
+    {
+      "id": 7,
+      "title": "Seventh Blog Post",
+      "body": "Tips for effective time management. Integer nec velit sed nisi ultricies varius in ac urna.",
+      "date": "2023-10-30"
+    },
+    {
+      "id": 8,
+      "title": "Eighth Blog Post",
+      "body": "Exploring different cuisines around the world. Phasellus scelerisque elit non eros feugiat, a venenatis purus interdum.",
+      "date": "2023-11-12"
+    },
+    {
+      "id": 9,
+      "title": "Ninth Blog Post",
+      "body": "The benefits of mindfulness meditation. Nam quis lacus vehicula, fermentum sapien ac, congue libero.",
+      "date": "2023-12-25"
+    },
+    {
+      "id": 10,
+      "title": "Tenth Blog Post",
+      "body": "How to start your own business. Sed nec velit id libero venenatis interdum id vel lorem.",
+      "date": "2024-01-05"
+    }
+  ]
+}
