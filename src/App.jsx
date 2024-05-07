@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import Home from "./Home";
 import EditPost from "./EditPost";
 import PostPage from "./PostPage";
+import About from "./About";
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
         <Route path="/post" element={<NewPost />} />
         <Route path="/edit/:id" element={<EditPost />} />
         <Route path="/post/:id" element={<PostPage />} />
-        <Route path="/about" element={<About />}/>
+        <Route path="/about" element={<About />} />
         <Route path="*" element={<PostPage />} />
       </Routes>
       <Footer />
